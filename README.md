@@ -1,1 +1,1 @@
-# PROJECT-1-
+ # 📚 Student Buddy Chrome Extension
