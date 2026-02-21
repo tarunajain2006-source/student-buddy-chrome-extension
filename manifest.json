@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Student Buddy",
+  "version": "1.0",
+  "description": "Quick student task saver",
+  "action": {
+    "default_popup": "popup.html"
+  }
+} 
