@@ -2,7 +2,6 @@
 
 A lightweight and beginner-friendly Chrome extension that helps students quickly add and manage tasks directly from the browser.
 
----
 
 ##  Features
 
@@ -12,7 +11,6 @@ A lightweight and beginner-friendly Chrome extension that helps students quickly
 - ⚡ Fast popup interface  
 - 🎯 Simple and easy to use  
 
----
 
 ##  How It Works
 
@@ -34,7 +32,6 @@ The extension allows students to quickly note down tasks while browsing.
 - Chrome Extension API (Manifest V3)  
 - LocalStorage  
 
----
 ▶️ How to Run
 
 1. Open Chrome and go to:  
